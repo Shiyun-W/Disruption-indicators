@@ -1,5 +1,5 @@
 # Knowledge-entity-based disruption indicators
-This project is created for providing the main source codes of our latest research "Quantifying scientific breakthroughs by a novel disruption indicator based on knowledge entities" that submitted to JASIST (The Journal of the Association for Information Science and Technology).
+This project is created for providing the main source code of our latest manuscript "Quantifying scientific breakthroughs by a novel disruption indicator based on knowledge entities" that submitted to JASIST (The Journal of the Association for Information Science and Technology).
 
 # General Information
 ## Introduction
@@ -9,10 +9,10 @@ To validate our disruption indicator in identifying scientific breakthroughs, we
 
 ## Content
 ### disruption indicators
-This document includes the main source codes for five disruption indicators (three baseline indicators that proposed by previous studies and two new indicators that we proposed)
+This document includes the main source codes for five disruption indicators (three baseline indicators that proposed by previous studies and two new indicators that proposed in our research)
 
 ### Figures and tables
-This document includes processing and plotting codes for the main figures and tables in our research.
+This document includes data processing and plotting code for the main figures and tables in our paper.
 
 # References
 Funk, R. J., & Owen-Smith, J. (2017). A dynamic network measure of technological change. Management Science, 63(3), 791–817. https://doi.org/10.1287/mnsc.2015.2366
@@ -26,6 +26,7 @@ Shiyun Wang, Yaxue Ma, Jin Mao, Yun Bai, Zhentao Liang, and Gang Li
 
 # Contact
 Email: 
+
 wangsy2@whu.edu.cn
 
 mayaxue@nju.edu.cn
