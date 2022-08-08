@@ -14,8 +14,8 @@ This document includes the main source codes for five disruption indicators (thr
 This document includes processing and plotting codes for the main figures and tables in our research.
 
 # References
-Funk, R. J., & Owen-Smith, J. (2017). A dynamic network measure of technological change. Management Science, 63(3), 791–817. https://doi.org/10.1287/mnsc.2015.2366
-Wu, L., Wang, D., & Evans, J. A. (2019). Large teams develop and small teams disrupt science and technology. Nature, 566(7744), 378–382. https://doi.org/10.1038/s41586-019-0941-9
+Funk, R. J., & Owen-Smith, J. (2017). A dynamic network measure of technological change. Management Science, 63(3), 791–817. https://doi.org/10.1287/mnsc.2015.2366\n
+Wu, L., Wang, D., & Evans, J. A. (2019). Large teams develop and small teams disrupt science and technology. Nature, 566(7744), 378–382. https://doi.org/10.1038/s41586-019-0941-9\n
 Bornmann, L., Devarakonda, S., Tekles, A., & Chacko, G. (2020). Are disruption index indicators convergently valid? The comparison of several indicator variants with assessments by peers. Quantitative Science Studies, 1(3), 1242–1259. https://doi.org/10.1162/qss_a_00068
 
 # Contributors
