@@ -24,7 +24,7 @@ Liang, Z., Mao, J., Lu, K., & Li, G. (2021). Finding citations for PubMed: a lar
 Wu, L., Wang, D., & Evans, J. A. (2019). Large teams develop and small teams disrupt science and technology. Nature, 566(7744), 378–382. https://doi.org/10.1038/s41586-019-0941-9
 
 # Contributors
-Shiyun Wang^1,2, Yaxue Ma^3*, Jin Mao^1,2*, Yun Bai^1,2, Zhentao Liang^1,2, Gang Li^1
+Shiyun Wang<sup>1,2</sup>, Yaxue Ma<sup>3*</sup>, Jin Mao<sup>1,2*</sup>, Yun Bai<sup>1,2</sup>, Zhentao Liang<sup>1,2</sup>, Gang Li<sup>1</sup>
 
 1, Center for Studies of Information Resources, Wuhan University, Wuhan, Hubei, China
 
