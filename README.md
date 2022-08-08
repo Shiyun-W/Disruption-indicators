@@ -25,6 +25,7 @@ Wu, L., Wang, D., & Evans, J. A. (2019). Large teams develop and small teams dis
 
 # Contributors
 Shiyun Wang 1,2, Yaxue Ma 3*, Jin Mao 1,2*, Yun Bai 1,2, Zhentao Liang 1,2, Gang Li 1
+
 1, Center for Studies of Information Resources, Wuhan University, Wuhan, Hubei, China
 2, School of Information Management, Wuhan University, Wuhan, Hubei, China
 3, School of Information Management, Nanjing University, Nanjing, Jiangsu, China
