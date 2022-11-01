@@ -11,6 +11,8 @@ The effectiveness of the proposed indicators was evaluated against four standard
 ### disruption indicators
 - `disruption indicators.ipynb` includes the main source codes for five disruption indicators (three baseline indicators that proposed by previous studies and two new indicators that proposed in our research)
 
+- `sample_data` file provides five sample datasets for the calculation of disruption indicator. It should be noted that files with a ".dat" suffix should be loaded using the code in the "data preparation" section in the "disruption Indicators.ipynb" file.
+
 ### Figures and tables
 - `figures and tables.ipynb` includes data processing and plotting code for the main figures and tables in our paper.
 
